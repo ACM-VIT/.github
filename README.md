@@ -1,9 +1,28 @@
-![hacktoberfest-acmvit](https://user-images.githubusercontent.com/52633729/135446856-ed1de284-c21a-4932-bd70-b4eae149c49c.png)
+![hacktoberfest-acmvit](profile/main.png)
 
-<p align="center">
-    ACM-VIT is a team of technologically driven students with the aim of making tech more accessible.
+<p>
+    <h3 align="center">
+    ACM-VIT is a team of driven and dedicated students working towards making technology more accessible.
+    </h3>
 </p>
 
-<p align="center">
-Forktober is an initiative that aims to promote the culture of Open Source amongst tech enthusiasts and beginners alike. Contribute to our Hacktoberfest repositories, earn points for each accepted PR and stand a chance to win exciting goodies!
-</p>
+<div align="center">
+    <a href="https://twitter.com/ACM_VIT"
+        target="_blank">
+        <img alt="Twitter"
+            src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/company/acmvit"
+        target="_blank">
+        <img alt="LinkedIn"
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
+        />
+    </a>
+    <a href="https://instagram.com/acmvit"
+        target="_blank">
+            <img alt="Instagram" 
+                src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b"
+            />
+    </a>
+</div>
