@@ -1,9 +1,13 @@
-![hacktoberfest-acmvit](profile/main.png)
+![hacktoberfest-acmvit](profile/Forktober2022.png)
 
 <p>
     <h3 align="center">
     ACM-VIT is a team of driven and dedicated students working towards making technology more accessible.
     </h3>
+</p>
+
+<p align="center">
+Forktober is an initiative that aims to promote the culture of Open Source amongst tech enthusiasts and beginners alike.
 </p>
 
 <div align="center">
