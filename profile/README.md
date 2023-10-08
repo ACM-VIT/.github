@@ -1,4 +1,4 @@
-![hacktoberfest-acmvit](profile/Forktober2022.png)
+![hacktoberfest-acmvit](profile/forktober2023.png)
 
 <p>
     <h3 align="center">
