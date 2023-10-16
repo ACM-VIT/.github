@@ -1,4 +1,4 @@
-![hacktoberfest-acmvit](profile/forktober2023.png)
+![hacktoberfest-acmvit](https://github.com/ACM-VIT/.github/blob/master/profile/forktober%202023%20new.png)
 
 <p>
     <h3 align="center">
