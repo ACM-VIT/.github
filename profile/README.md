@@ -1,4 +1,4 @@
-![hacktoberfest-acmvit](https://github.com/ACM-VIT/.github/blob/master/profile/forktober%202023%20new.png)
+![ACM Banner](https://github.com/user-attachments/assets/4ed8a91e-8008-46d9-82b2-8d64fa85b0f8)
 
 <p>
     <h3 align="center">
