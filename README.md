@@ -1,4 +1,5 @@
-![hacktoberfest-acmvit](profile/Forktober2022.png)
+![GitHub Banner](https://github.com/user-attachments/assets/6062559d-e871-4c9b-ae2c-2083d43a8f49)
+
 
 <p>
     <h3 align="center">
