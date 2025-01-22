@@ -1,4 +1,4 @@
-![ACM Banner](https://github.com/user-attachments/assets/4ed8a91e-8008-46d9-82b2-8d64fa85b0f8)
+![ACM Banner New](https://github.com/user-attachments/assets/24bca027-0d5a-463f-93a0-053c135ccda7)
 
 <p>
     <h3 align="center">
