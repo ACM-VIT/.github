@@ -6,10 +6,6 @@
     </h3>
 </p>
 
-<p align="center">
-Forktober is an initiative that aims to promote the culture of Open Source amongst tech enthusiasts and beginners alike.
-</p>
-
 <div align="center">
     <a href="https://twitter.com/ACM_VIT"
         target="_blank">
